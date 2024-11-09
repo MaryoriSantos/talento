@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es-col">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Semana 4</title>
+</head>
+<body>
+    <div class="banner" id="id_banner">
+        <h1 class="banner__titulo">Bienvenido a nuestro sitio web! </h1>
+        <p >Descubre nuestros servicios y ofertas especiales</p>
+        <button type="button" class="banner__button" id="id_bannerButtonClose">&times</button>
+    </div>
+    <header>
+        <nav class="menu">
+            <ul>
+                <li href="" class="menu__botones">Productos</li>
+                <li href="" class="menu__botones">Descripcion</li>
+                <li href="" class="menu__botones">Banner</li>
+                <li href="" class="menu__botones">Imagenes</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="productos">
+            <div class="contenedor__producto">
+                <img src="img/Producto1.jpeg" alt="">
+                <h2 class="productos__titulo">Nuestros productos</h2>
+                <p class="productos__descripcion">Descripcion del producto</p>
+            </div>
+            <div class="contenedor__producto">
+                <img src="img/Producto2.jpeg" alt="">
+                <h2 class="productos__titulo">Nuestros productos</h2>
+                <p class="productos__descripcion">Descripcion del producto</p>
+            </div>
+            <div class="contenedor__producto">
+                <img src="img/Producto3.jpeg" alt="">
+                <h2 class="productos__titulo">Nuestros productos</h2>
+                <p class="productos__descripcion">Descripcion del producto</p>
+            </div>
+            
+        </section>
+        
+
+
+
+
+    </main>
+    
+    
+</body>
+<script>
+    document.getElementById("id_bannerButtonClose").addEventListener("click", function(){
+        document.getElementById("id_banner").style.display = "none";
+    });
+   
+
+</script>
+</html>

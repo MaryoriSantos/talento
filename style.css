@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: none;
+    border: none;
+}
+
+.banner{
+    background: url(img/banner__img.jpeg);
+    background-size: cover;
+    display:  flex;
+    flex-direction: column;
+    width: 100%;
+    position: relative;
+    padding: 1rem;
+    
+    
+}
+.banner__titulo{
+    color: rgb(255, 255, 255);
+    font-size: 5vh;
+}
+.banner p{
+    color: rgba(240, 248, 255, 0.947);
+    font-size: 3vh;
+}
+
+.banner__button{
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    font-size: 4.5vh;
+    color: rgba(240, 248, 255, 0.673);
+    cursor: pointer;
+}
+
+
+
+.menu {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    width: 100%; 
+    padding: 10px 0;
+}
+
+.menu ul {
+    display: flex;
+    gap: 20px;
+    
+    
+}
+
+.menu__botones {
+    display: flex;
+    padding: 10px;
+    color: rgba(0, 0, 0, 0.625);
+    font-weight: 600;
+    font-size: 2.5vh;
+    cursor: pointer;
+    border-bottom: 1px  solid white;
+    transition: border-color 0.3s ease , color 0.3s ease ;
+}
+
+.menu__botones:hover {
+    color: black;
+    border-color:  black;
+}
+
+
+
+.productos{
+    display: flex;
+    justify-content: center;
+    margin: 2rem auto;
+    gap: 5vh;
+    
+}
+
+.contenedor__producto{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(251, 251, 251);
+    height: auto;
+    width: 40vh;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.318);
+    cursor: pointer;
+}
+.contenedor__producto h2{
+    font-size: 2.5vh;
+}
+.contenedor__producto p{
+    font-size: 2vh;
+}
+.contenedor__producto img{
+    max-width: 100%;
+    max-height: 100%;
+    
+}
+
+
+
