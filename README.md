@@ -14,10 +14,7 @@ Este proyecto consiste en una landing page desarrollada como parte de un bootcam
 ## **Capturas de Pantalla**
 
 ### Vista General de la Página
-![Vista general](screenshots/vista-general.png)
-
-### Detalle de Producto
-![Tarjetas de productos](screenshots/productos.png)
+![Vista general](screenshots/Prueba.png)
 
 ## **Tecnologías Empleadas**
 - **HTML5**: Para la estructura base de la página.
