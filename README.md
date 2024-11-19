@@ -3,8 +3,6 @@
 ## **Descripción**
 Este proyecto consiste en una landing page desarrollada como parte de un bootcamp de desarrollo web. La página presenta un menú de navegación y tres productos destacados con sus respectivas descripciones. El objetivo principal es demostrar habilidades en maquetación y diseño web, enfocándose en la experiencia del usuario (UX) y en la creación de una página visualmente atractiva y funcional.
 
-Puedes visualizar el proyecto en vivo en: [**GitHub Pages**](#).
-
 ## **Características**
 - **Estructura de contenido en HTML5**: Uso de etiquetas semánticas para organizar la página de manera clara.
 - **Diseño estilizado con CSS3**: Estilos responsivos para una experiencia óptima en diferentes dispositivos.
@@ -25,3 +23,6 @@ Puedes visualizar el proyecto en vivo en: [**GitHub Pages**](#).
 - **HTML5**: Para la estructura base de la página.
 - **CSS3**: Para estilizar y diseñar la página.
 - **GitHub Pages**: Plataforma utilizada para el despliegue del proyecto.
+
+## **Autor**
+Maryori Henith Santos Bohorquez
