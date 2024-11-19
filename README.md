@@ -1,29 +1,27 @@
-# Documentación de la Landing Page
+# **Landing Page - Proyecto de Maquetación**
 
-## Índice de Contenido
-1. [Introducción](#introducción)
-2. [Estructura de la Landing Page](#estructura-de-la-landing-page)
-3. [Visualización](#visualización)
-4. [Tecnologías Empleadas](#tecnologías-empleadas)
-5. [Codificación](#codificación)
-6. [Despliegue](#despliegue)
+## **Descripción**
+Este proyecto consiste en una landing page desarrollada como parte de un bootcamp de desarrollo web. La página presenta un menú de navegación y tres productos destacados con sus respectivas descripciones. El objetivo principal es demostrar habilidades en maquetación y diseño web, enfocándose en la experiencia del usuario (UX) y en la creación de una página visualmente atractiva y funcional.
 
----
+Puedes visualizar el proyecto en vivo en: [**GitHub Pages**](#).
 
-## Introducción
-En esta sección se proporciona una visión general del proyecto de la landing page, sus objetivos principales y el público objetivo al que va dirigido.
+## **Características**
+- **Estructura de contenido en HTML5**: Uso de etiquetas semánticas para organizar la página de manera clara.
+- **Diseño estilizado con CSS3**: Estilos responsivos para una experiencia óptima en diferentes dispositivos.
+- **Secciones principales**:
+  - **Encabezado**: Incluye un banner con un mensaje de bienvenida y un menú de navegación.
+  - **Tarjetas de productos**: Muestra tres productos con imágenes, títulos y descripciones breves.
+  - **Pie de página**: Espacio reservado para enlaces adicionales o información de contacto.
 
-## Estructura de la Landing Page
-Aquí se describe la organización de los elementos en la landing page, como el encabezado, la sección de contenido principal, los llamados a la acción y el pie de página.
+## **Capturas de Pantalla**
 
-## Visualización
-Se detallan las características visuales de la página, tales como el diseño, el uso de colores, tipografía y la experiencia de usuario (UX).
+### Vista General de la Página
+![Vista general](screenshots/vista-general.png)
 
-## Tecnologías Empleadas
-En esta sección se enumeran y explican las tecnologías, lenguajes y herramientas que se utilizaron para construir la landing page (HTML, CSS, JavaScript, frameworks, etc.).
+### Detalle de Producto
+![Tarjetas de productos](screenshots/productos.png)
 
-## Codificación
-Incluye detalles sobre el desarrollo del código, estructuración de archivos y buenas prácticas de codificación empleadas en el proyecto.
-
-## Despliegue
-Aquí se describe el proceso de despliegue de la landing page, incluyendo las plataformas de hosting utilizadas y los pasos necesarios para hacer la página accesible al público.
+## **Tecnologías Empleadas**
+- **HTML5**: Para la estructura base de la página.
+- **CSS3**: Para estilizar y diseñar la página.
+- **GitHub Pages**: Plataforma utilizada para el despliegue del proyecto.
