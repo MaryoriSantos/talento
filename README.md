@@ -9,7 +9,6 @@ Este proyecto consiste en una landing page desarrollada como parte de un bootcam
 - **Secciones principales**:
   - **Encabezado**: Incluye un banner con un mensaje de bienvenida y un menú de navegación.
   - **Tarjetas de productos**: Muestra tres productos con imágenes, títulos y descripciones breves.
-  - **Pie de página**: Espacio reservado para enlaces adicionales o información de contacto.
 
 ## **Capturas de Pantalla**
 
@@ -19,7 +18,6 @@ Este proyecto consiste en una landing page desarrollada como parte de un bootcam
 ## **Tecnologías Empleadas**
 - **HTML5**: Para la estructura base de la página.
 - **CSS3**: Para estilizar y diseñar la página.
-- **GitHub Pages**: Plataforma utilizada para el despliegue del proyecto.
 
 ## **Autor**
 Maryori Henith Santos Bohorquez
